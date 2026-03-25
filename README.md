@@ -1,5 +1,5 @@
-<img width="1874" height="924" alt="Login page 1" src="https://github.com/user-attachments/assets/8e94552f-72c2-46e0-9b62-d6be6d477306" />## Animated Glassmorphism Calculator UI
- site is live at https://gaurav-wb.github.io/HTML-CSS-Calculator-UI-Only-/
+## Animated Glassmorphism Calculator UI
+## site is live at https://gaurav-wb.github.io/HTML-CSS-Calculator-UI-Only-/
 
 A modern calculator interface built using **pure HTML and CSS**, focused entirely on **UI/UX design and animation**.
 
